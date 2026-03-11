@@ -137,3 +137,4 @@ El proyecto combina análisis exploratorio con inferencia estadística, fortalec
 Tecnologías utilizadas
 CIENCIA DE DATOS: Juoyter Notebooks
 DATA: Python y Pandas
+LIBRERIAS: matplotlib y scipy
