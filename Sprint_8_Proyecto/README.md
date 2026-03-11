@@ -1,16 +1,5 @@
 Proyecto Sprint 8 
 
-Cómo lo presentas en tu README
-
-Problema →
-Modelo →
-Resultados →
-Impacto económico →
-Recomendaciones ejecutivas
-
-Proyecto: Análisis Exploratorio y Prueba de Hipótesis – Servicio de Taxis en Chicago
-Descripción del Proyecto
-
 En este proyecto se realiza un análisis exploratorio de datos (EDA) y una prueba de hipótesis utilizando datos reales de viajes de taxis en Chicago durante noviembre de 2017.
 
 El objetivo es:
