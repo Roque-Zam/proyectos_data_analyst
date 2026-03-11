@@ -133,3 +133,7 @@ El proyecto combina análisis exploratorio con inferencia estadística, fortalec
  ┃ ┗ 02_Hypothesis_Testing.ipynb
  ┣ README.md
  ┗ requirements.txt
+
+Tecnologías utilizadas
+CIENCIA DE DATOS: Juoyter Notebooks
+DATA: Python y Pandas
